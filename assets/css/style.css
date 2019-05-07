@@ -1,0 +1,76 @@
+.jumbotron {
+  box-sizing: border-box;
+  height: 700px;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.main-button-container {
+  margin-top: 100px;
+  max-width: 610px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.timer-p {
+  margin-top: 40px;
+}
+
+.answer:hover {
+  background: lightyellow;
+}
+
+.answer {
+  padding-top: 7px;
+  height: 45px;
+  color: black;
+  padding-left: 14px;
+  background-color: silver;
+  border-radius: 4px;
+}
+
+.img-wrong {
+  margin-top: 40px;
+}
+
+.first-answer {
+  margin-top: 40px;
+}
+
+.reset-button {
+  margin-top: 40px;
+  background-color: silver;
+  color: black;
+}
+
+.reset-button:hover {
+  background-color: lightyellow;
+  color: black;
+}
+
+.start-button {
+  margin-top: 80px;
+  background-color: white;
+  color: black;
+}
+
+.start-button:hover {
+  background-color: lightyellow;
+  color: red;
+}
+
+.summary-correct {
+  margin-top: 40px;
+}
+
+body {
+  background-image: url(../images/Background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+h1 {
+  font-family: "Tangerine", cursive;
+  font-size: 65px;
+  font-weight: 300;
+}
