@@ -166,8 +166,8 @@ var answerArray = [
   ["Eddison Tollett", "Jon Snow", " Ser Alliser Thorne", "Jeor Mormont"],
   ["Rob Stark", "Ned Stark", "Jon Snow", "Bran Stark"],
   ["Sam", "Ser Allister Thorne", "Olly", "Eddison Tollett"],
-  ["Seven times", "Four times", " Six times", "Five times"],
-  ["Marcella Sand", "Obara Sand", "Nymeria Sand ", "Tyene Sand"],
+  ["Seven times", "Four times", "Six times", "Five times"],
+  ["Marcella Sand", "Obara Sand", "Nymeria Sand", "Tyene Sand"],
   [
     "All men must fight",
     "All men must live",
